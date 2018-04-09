@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<base href="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="Philip Stutz" />
+<meta name="description" content="Führender Spezialist von brasilianischen Weinen und Qualitäts-Schaumweinen" />
+<meta name="generator" content="Joomla! - Open Source Content Management" />
+<title>Wein-Brasilien</title>
+<link href="images/Stilelemente/favicon.jpg" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link rel="stylesheet" type="text/css" href="media/plg_jchoptimize/cache/18d6d4730f7da088e6453e4baaa89ce8_0.css" />
+<link href="http://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="media/plg_jchoptimize/cache/18d6d4730f7da088e6453e4baaa89ce8_1.css" />
+<style type="text/css">body{background-color:#fff;color:#666;font-size:12px}.logo{margin-top:40px;margin-bottom:40px}.svn-menu ul li{width:210px}.container-fluid{max-width:1000px}h1,h2,h3,h4,h5{font-family:Cormorant Garamond,sans-serif}</style>
+<script type="application/javascript" src="media/plg_jchoptimize/cache/181bb5c12bed253dce156fa871ac28e7_0.js"></script>
+<script type="text/javascript">jQuery(window).on('load',function(){new JCaption('img.caption');});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x:16,y:16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});</script>
+<!--[if IE 7]>
+<link rel="stylesheet" href="/templates/visario/css/template-ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/templates/visario/css/template-ie8.css" type="text/css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" href="/templates/visario/css/template-ie9.css" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="/media/jui/js/html5.js"></script>
+<![endif]-->
+<!--[if IEMobile 7]>
+<link rel="stylesheet" href="/templates/visario/css/template-ie-mobile7.css" type="text/css" />
+<![endif]-->
+</head>
+<body class="com_content view-article layout- task- itemid-122 no-rtl">
+<!-- Body -->
+<div class="body-wrapper">
+<!-- Header -->
+<header id="header">
+<div class="container-fluid">
+<div class="logo pull-left">
+<a href="index.html"><img src="images/Stilelemente/logo-weiss.png" alt="Wein-Brasilien" /></a>	</div>
+<button type="button" class="btn-navbar pull-right" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+</header>
+<!-- End Header -->
+<nav id="menu" class="clearfix">
+<div class="container-fluid">
+<div class="nav-collapse collapse">
+<ul class="svn-menu">
+<li class="item-101"><a href="index.html" title="Wein-Brasilien" >Home</a>
+</li><li class="item-111 deeper parent collapsed"><a href="weine" >Weine</a>
+<span class="caret" data-toggle="collapse" data-target=".500">More</span>
+<ul class="collapse 500"><li class="item-125 deeper parent collapsed"><a href="http://www.wein-brasilien.de/weine/brasilien/rotweine" >Brasilien</a>
+<span class="caret" data-toggle="collapse" data-target=".501">More</span>
+<ul class="collapse 501"><li class="item-126"><a href="http://www.wein-brasilien.de/weine/brasilien/rotweine" >Rotweine</a>
+</li><li class="item-127"><a href="http://www.wein-brasilien.de/weine/brasilien/weissweine" >Weißweine</a>
+</li><li class="item-158"><a href="http://www.wein-brasilien.de/weine/brasilien/rose" >Roséweine</a>
+</li><li class="item-128"><a href="http://www.wein-brasilien.de/weine/brasilien/schaumweine" >Schaumweine</a>
+</li></ul></li><li class="item-129 deeper parent collapsed"><a href="http://www.wein-brasilien.de/weine/portugal/rotweine" >Portugal</a>
+<span class="caret" data-toggle="collapse" data-target=".502">More</span>
+<ul class="collapse 502"><li class="item-130"><a href="http://www.wein-brasilien.de/weine/portugal/rotweine" >Rotweine</a>
+</li><li class="item-131"><a href="http://www.wein-brasilien.de/weine/portugal/weissweine" >Weißweine</a>
+</li></ul></li></ul></li><li class="item-134 deeper parent collapsed"><a href="weinregionen/brasilien" >Weinregionen</a>
+<span class="caret" data-toggle="collapse" data-target=".503">More</span>
+<ul class="collapse 503"><li class="item-139"><a href="weinregionen/brasilien" >Brasilien</a>
+</li></ul></li><li class="item-116 deeper parent collapsed"><a href="weingueter/brasilien/der-brasilianische-weinbau" >Weingüter</a>
+<span class="caret" data-toggle="collapse" data-target=".504">More</span>
+<ul class="collapse 504"><li class="item-135 deeper parent collapsed"><a href="weingueter/brasilien/der-brasilianische-weinbau" >Brasilien</a>
+<span class="caret" data-toggle="collapse" data-target=".505">More</span>
+<ul class="collapse 505"><li class="item-155"><a href="weingueter/brasilien/der-brasilianische-weinbau" >Der brasilianische Weinbau</a>
+</li><li class="item-136"><a href="weingueter/brasilien/fuenf-gute-gruende" >Fünf gute Gründe...</a>
+</li><li class="item-117"><a href="weingueter/brasilien/casa-valduga" >Casa Valduga</a>
+</li><li class="item-124"><a href="weingueter/brasilien/pizzato" >Pizzato</a>
+</li><li class="item-137"><a href="weingueter/brasilien/vinicola-salton" >Vinicola Salton</a>
+</li><li class="item-138"><a href="weingueter/brasilien/vini-brasil" >Vini Brasil</a>
+</li></ul></li><li class="item-156 deeper parent collapsed"><a href="weingueter/portugal/christie" >Portugal</a>
+<span class="caret" data-toggle="collapse" data-target=".506">More</span>
+<ul class="collapse 506"><li class="item-157"><a href="weingueter/portugal/christie" >Christie</a>
+</li><li class="item-164"><a href="weingueter/portugal/global-wines" >Global Wines</a>
+</li></ul></li></ul></li><li class="item-120"><a href="weinverkauf" >Weinverkauf</a>
+</li><li class="item-121"><a href="unsere-leistungen" >Unsere Leistungen</a>
+</li><li class="item-122 current active"><a href="ueber-uns" >Über uns</a>
+</li></ul>
+</div>
+</div>
+</nav>
+<div id="slider">
+<p><img src="images/Headerbilder/casa-valduga3.jpg" alt="casa valduga3" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>
+<!-- Mainbody -->
+<div id="mainbody" class="clearfix">
+<div class="container-fluid">
+<div class="row-fluid">
+<!-- Content Block -->
+<div id="content" class="span12">
+<div id="message-component">
+<div id="system-message-container">
+</div>
+</div>
+<div id="content-area">
+<div class="item-page">
+<div class="page-header">
+<h1> Wein-Brasilien </h1>
+</div>
+<div class="page-header">
+<h2>
+										Über uns					</h2>
+</div>
+<p>Eigentlich wollte er nur den letzten von 24 Bundesstaaten Brasiliens, den er noch nicht kannte, besuchen. Und eigentlich hatte er einfach nur einen Wein zum Essen bestellt. Doch dann kam alles anders: Für Dr. Helmut Fritzsche wurde aus Genuß eine Passion, die Liebe zu gutem brasilianischen Wein ließ ihn nicht mehr los. Seit 2005 nun importiert Dr. Fritzsche gemeinsam mit seiner Tochter diesen Wein nach Deutschland und Österreich. Aus anfänglicher Begeisterung und Idealismus wuchs so Schritt für Schritt ein Importeur und Händler, der nicht einfach ein Produkt verkauft, sondern auch gerne seine Begeisterung teilt. Und auch heute spricht Wein-Brasilien bei Degustationen nicht nur allein über den Wein, denn das kann der Wein von sich aus, sondern eher über dessen Umfeld, Hintergrund und Geschichte.</p>
+<p>&nbsp;</p>
+<h2>Wein-Brasilien GmbH &amp; Co. KG wird gesetzlich vertreten durch Dr. Helmut Fritzsche, Geschäftsführer und Gesellschafter</h2>
+<hr />
+<p><a href="images/Inhaltsbilder/dr.-fritzsche.jpg" class="jcepopup noicon" data-mediabox="1" data-mediabox-group="team" data-mediabox-caption="Dr. Fritzsche"><img src="images/Inhaltsbilder/dr.-fritzsche.jpg" alt="dr. fritzsche" width="130" height="186" class="pull-left" /></a>Dr. Fritzsche war von 1972 – 1982 in der damals aufstrebenden Industrie im mittleren Management und als Hochschullehrer für Systemtheorie in Rio, São Paulo und im nordöstlichen Bundesstaat Paraiba tätig. Neben seiner Arbeit an den Bundesuniversitäten betrieb Dr. Fritzsche den größten Gastronomiebetrieb in João Pessoa, der Hauptstadt des Bundesstaates Paraiba. Nach der Rückkehr der Familie nach Deutschland arbeitete Dr. Fritzsche viele Jahre als obere Führungskraft in der chemischen Industrie.</p>
+<p>Ende 2004 besuchte er Juarez Valduga, den jetzigen Inhaber des Weinguts Casa Valduga in Brasilien. Danach ging alles sehr schnell: Teilnahme an der ProWein 2005, der Anuga 2005; Import der ersten Sendung im August 2005. 2007 Aufnahme des Weingut Miolo Wine Group- 2008 Aufnahme der Weingüter Vinicola Salton und Lidio Carraro- 2009 Erweiterung mit dem Weingut Boscato und 2010 mit dem Weingut Pizzato.<span class="clearfix"></span></p>
+<p><a href="images/Inhaltsbilder/cimg8920.jpg" class="jcepopup noicon" data-mediabox="1" data-mediabox-group="team" data-mediabox-caption="Michèle Ludewig"><img src="images/Inhaltsbilder/cimg8920.jpg" alt="cimg8920" width="130" height="189" class="pull-left" /></a>Michèle Ludewig ist für den Vertriebsbereich der Firma Wein-Brasilien verantwortlich. Nach ihrer erfolgreich ab- geschlossenen Ausbildung zur Hotelfachfrau im Nobelhotel „Das Palace“ München holte sie in einem Jahr ihr Fachabitur auf dem Wirtschaftszweig der BOS München nach. Es folgte ein Auslandsaufenthalt im fünf Sterne Hotel „Crowne Plaza Dubai“, in dem sie als Guest Relation Managerin für das Wohl der Exklusivgäste verantwortlich gewesen ist. 2005 kehrte sie nach München zurück um sich voll und ganz der Arbeit mit den Weinen aus Brasilien zu widmen. 2011 schloss sie ihre Ausbildung als Weinfachberaterin und im Anschluss als Sommelière erfolgreich ab. 2012 eröffnete Michèle Ludewig das Weinhaus Grafing.</p>
+<p>&nbsp;<br /><br /></p>
+</div>
+</div>
+<div id="mainbottom-b">
+<div class="row-fluid"><div class="span12"><div class="module"><div class="module-title"><h2 class="">Wein-Brasilien auf YouTube</h2></div><div class="module-content">
+<p class="media-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ke767aG0MHQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+</div></div></div></div>
+</div>
+</div>
+<!-- End Content Block -->
+</div>
+</div>
+</div>
+<!-- End Mainbody -->
+<!-- Footer -->
+<footer id="footer" class="clearfix">
+<div class="container-fluid">
+<div class="footer-menu pull-left">
+<ul class="nav menu">
+<li class="item-123"><a href="impressum" >Impressum</a></li></ul>
+</div>
+<!-- Copyrights -->
+<p class="copyrights pull-right">
+				
+									Copyright © 2018. Wein Brasilien.
+								
+				</p>
+</div>
+</footer>
+<!-- End Footer -->
+</div>
+<!-- End Body -->
+<!-- To Top Scroller -->
+<a href="ueber-uns#" id="totop"></a>
+</body>
+</html>
